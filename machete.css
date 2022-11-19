@@ -1,6 +1,9 @@
 
+.titulo {
+    background-color: black;
+}
 h1{ color:#F48668;
-font-family: 'Oxygen', sans-serif;
+font-family: 'Sono', sans-serif;
 
 }
 h2 { background-color: #5F5449;
@@ -9,4 +12,65 @@ color: #F48668;
 p{ 
     background-color: #9F9F9F;
     color: black;
+}
+div{
+background-color:#F48668;
+}
+h3{
+background-color: rgb(127, 255, 234);
+}
+.parrafodos {
+    background-color: aqua;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+img {
+    width: 30%;
+}
+
+.botonFB {
+	box-shadow: 0px 1px 0px 0px #1c1b18;
+	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
+	background-color:#eae0c2;
+	border-radius:15px;
+	border:2px solid #333029;
+	display:inline-block;
+	cursor:pointer;
+	color:#505739;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:12px 16px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.botonFB:hover {
+	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+	background-color:#ccc2a6;
+}
+.botonFB:active {
+	position:relative;
+	top:1px;
 }

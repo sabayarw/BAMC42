@@ -16,5 +16,13 @@ h1 es etiqueta de titulo, luego h2, h3, etc... (bajan en tamaños)
 CSS:
 Para colocar una regla hacer : y el valor finalizando con ;
 Por regla general se usa en JS el nombre del archivo en camel case (mayuscula para separar palabaras)
+hr es salto de linea (espacio entre textos con una linea)
+pr salto de linea (sin espacio)
+etiqueta <strong> para negrita
+shift y delete para borrar la linea entera
+<div> etiqueta para dividir elementos
+etiqueta >span> es para que solo lo que escribas detnro del span se cambie de background o la letra de color, etc. el atributo
+etiqueta <a para link
+el target_blank es para que el enlace se abra en otra pantalla
 */
 
