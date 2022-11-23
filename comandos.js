@@ -24,5 +24,6 @@ shift y delete para borrar la linea entera
 etiqueta >span> es para que solo lo que escribas detnro del span se cambie de background o la letra de color, etc. el atributo
 etiqueta <a para link
 el target_blank es para que el enlace se abra en otra pantalla
+para clonar es: alt + shift + flecha para abajo o arriba
 */
 

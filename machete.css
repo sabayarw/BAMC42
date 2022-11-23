@@ -19,7 +19,7 @@ background-color:#F48668;
 h3{
 background-color: rgb(127, 255, 234);
 }
-.parrafodos {
+.parrafoDos {
     background-color: aqua;
 }
 
@@ -73,4 +73,9 @@ img {
 .botonFB:active {
 	position:relative;
 	top:1px;
+}
+body {
+background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk3NS1iYWNrZ3JvdW5kLTA4LWJfMS1rcXRhZWF4ci5qcGc.jpg) ;
+background-repeat: no-repeat;
+background-size: contain ;
 }
