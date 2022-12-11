@@ -25,5 +25,7 @@ etiqueta >span> es para que solo lo que escribas detnro del span se cambie de ba
 etiqueta <a para link
 el target_blank es para que el enlace se abra en otra pantalla
 para clonar es: alt + shift + flecha para abajo o arriba
+en html la eitqueta lang es para colocar el lenguaje: <html lang="es" o "en"
+shift+delete para borrar la linea entera
 */
 
