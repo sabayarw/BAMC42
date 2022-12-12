@@ -1,24 +1,29 @@
 
-.titulo {
+.nav-menu {
+	display: inline-block;
 color:#ffffff;
 font-family:'Montserrat', sans-serif;
+font-size: 150%;
+background-color: #2e2e2b;
+padding: 15px 60px;
+text-decoration: none;
 }
-
+.nav-menu:hover {
+	background-color: #41c2b7;
+}
+nav {
+	background-color: #a7a6a5;
+	padding: 1%;
+}
 .name { color: #505739;
 } 
 
-h2 { 
-color: #F48668;
-}
-p{ 
-    background-color: #9F9F9F;
-    color: black;
-}
 h3{
-background-color: rgb(127, 255, 234);
+background-color: rgb(145, 83, 93);
 }
 .parrafoDos {
-    background-color: aqua;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png)
+
 }
 
 .myButton {
@@ -44,8 +49,8 @@ background-color: rgb(127, 255, 234);
 	position:relative;
 	top:1px;
 }
-img {
-    width: 20%;
+.yo {
+	border-radius: 20%;
 }
 .header { 
 	width: 100%;
@@ -78,5 +83,71 @@ img {
 }
 body {
 background-color: #1c1b18;
+}
 
+.cuadroBio {
+	z-index: 1;
+	width: 1000px;
+	height: 560px;
+	padding: 20px 20px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+	border-radius: 20px;
+	display: inline-block;
+
+}
+
+.parrafoBio {
+
+    color: #ffffff;
+	text-align: left;
+}
+
+.cuadroBio img{ 
+	width: 310px;
+	float: left;
+	margin-right: 15px;
+}
+
+.biografia {
+display:flex;
+justify-content: center;
+color: #ffffff;
+background-color: #235a55 ;
+font-family:'Montserrat', sans-serif;
+font-size: 200%;
+padding: 20px 20px;
+text-decoration: none;
+border-radius: 10px;
+}
+
+.cuadroProyectos {
+	z-index: 1;
+	width: 1300px;
+	height: 560px;
+	padding: 20px 20px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+	border-radius: 20px;
+	display: inline-block;
+
+}
+
+.proyectos {
+	display:flex;
+justify-content: center;
+color: #ffffff;
+background-color: #235a55 ;
+font-family:'Montserrat', sans-serif;
+font-size: 200%;
+padding: 20px 20px;
+text-decoration: none;
+border-radius: 10px;
+}
+
+
+.spanPrincipal { 
+background-color:#4b5236
 }
