@@ -29,7 +29,7 @@ background-color: rgb(145, 83, 93);
 .myButton {
 	box-shadow: 0px 10px 14px -7px #276873;
 	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
-	background-color:#599bb3;
+	background-color:#59b3b3;
 	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
@@ -57,30 +57,6 @@ background-color: rgb(145, 83, 93);
 	height: 100%;
 }
 
-.botonFB {
-	box-shadow: 0px 1px 0px 0px #1c1b18;
-	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
-	background-color:#eae0c2;
-	border-radius:15px;
-	border:2px solid #333029;
-	display:inline-block;
-	cursor:pointer;
-	color:#505739;
-	font-family:Arial;
-	font-size:14px;
-	font-weight:bold;
-	padding:12px 16px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #ffffff;
-}
-.botonFB:hover {
-	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
-	background-color:#ccc2a6;
-}
-.botonFB:active {
-	position:relative;
-	top:1px;
-}
 body {
 background-color: #1c1b18;
 }
@@ -132,7 +108,6 @@ border-radius: 10px;
 	box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
 	border-radius: 20px;
 	display: inline-block;
-
 }
 
 .proyectos {
@@ -147,7 +122,49 @@ text-decoration: none;
 border-radius: 10px;
 }
 
+.cuadroImgProyectos {
+	display: flex;
+	justify-content: center;
+}
 
-.spanPrincipal { 
-background-color:#4b5236
+.tituloFormulario {
+color: #41c2b7;
+}
+
+.boxForm {
+
+	padding: 50px; 
+}
+
+.nameForm {
+	padding: 5px;
+}
+
+.emailForm {
+		padding: 5px;
+}
+
+.enviarForm {
+	padding: 10px;
+}
+
+.portfolioCopy {
+	width: 600px;
+	margin-right: 10px; 
+}
+
+.ux {
+	width: 600px;
+}
+
+.cuadroForm {
+	z-index: 1;
+	width: 600px;
+	height: 400x;
+	padding: 20px 20px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+	border-radius: 20px;
+	display: inline-block;
 }
