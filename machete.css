@@ -1,6 +1,8 @@
 
 .nav-menu {
-	display: inline-block;
+display: inline-flex;
+flex-direction: row;
+justify-content: flex-end;
 color:#ffffff;
 font-family:'Montserrat', sans-serif;
 font-size: 150%;
@@ -11,6 +13,13 @@ text-decoration: none;
 .nav-menu:hover {
 	background-color: #41c2b7;
 }
+
+.sideMenu {
+	display: flex;
+	flex-direction:row;
+	justify-content:right;
+}
+
 nav {
 	background-color: #a7a6a5;
 	padding: 1%;

@@ -27,5 +27,7 @@ el target_blank es para que el enlace se abra en otra pantalla
 para clonar es: alt + shift + flecha para abajo o arriba
 en html la eitqueta lang es para colocar el lenguaje: <html lang="es" o "en"
 shift+delete para borrar la linea entera
+
+Las clases de CSS se separan con un espacio class= "hola menuNuevo"
 */
 
