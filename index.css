@@ -1,30 +1,61 @@
 .nav-menu {
     display: inline-flex;
     flex-direction: row;
-    justify-content: flex-end;
-    color:#ffffff;
-    font-family:'Montserrat', sans-serif;
-    font-size: 150%;
-    background-color: #2e2e2b;
-    padding: 15px 60px;
+    justify-content: center;
+    color: #ffffff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 80%;
+    padding: 5px 25px;
     text-decoration: none;
     }
     .nav-menu:hover {
-        background-color: #41c2b7;
+        color: #61fad4;
+        font-weight: bold;
     }
     
     .sideMenu {
         display: flex;
         flex-direction:row;
-        justify-content:right;
+        justify-content: flex-start
     }
     
     nav {
-        background-color: #a7a6a5;
-        padding: 1%;
+    
+        padding: 1px;
     }
     .name { color: #505739;
     } 
+
+.myName {
+    color: #ffffff;
+    font-size: 150%;
+    justify-content: flex-start;
+    font-weight: bold;
+    font-family:'Montserrat', sans-serif;
+
+}
+
+.Git {
+
+    display: inline-flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    font-size: 100%;
+    color: #ffffff;
+}
+
+.Github {
+
+    display: inline-flex;
+    justify-content: flex-end;
+    flex-direction: row; 
+
+}
+    
+
+
+
+
     
     h3{
     background-color: rgb(145, 83, 93);
@@ -119,7 +150,7 @@
     }
     
     .proyectos {
-        display:flex;
+    display:flex;
     justify-content: center;
     color: #ffffff;
     background-color: #235a55 ;
