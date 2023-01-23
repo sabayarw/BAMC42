@@ -29,5 +29,7 @@ en html la eitqueta lang es para colocar el lenguaje: <html lang="es" o "en"
 shift+delete para borrar la linea entera
 
 Las clases de CSS se separan con un espacio class= "hola menuNuevo"
+
+link:css y linkea de uno el html con css
 */
 

@@ -20,11 +20,10 @@
     }
     
     nav {
-    
-        padding: 1px;
+    display: flex;
+    justify-content: space-between;
     }
    
-
 
 .myName {
     color: #ffffff;
@@ -32,6 +31,7 @@
     justify-content: flex-start;
     font-weight: bold;
     font-family:'Montserrat', sans-serif;
+    padding: 0 40px; 
 
 }
 
@@ -43,6 +43,7 @@
     font-size: 100%;
     color: #ffffff;
    text-decoration: none;
+   padding: 0 40px; 
 }
 
 .Github {
@@ -58,7 +59,15 @@
 .logoGit {
 
     width: 20px;
+    padding: 0 5px; 
 
+}
+
+.logoLinkedin {
+
+    width: 20px;
+    padding: 0 5px; 
+    
 }
 
 .red {
