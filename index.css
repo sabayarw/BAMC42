@@ -13,8 +13,9 @@
         font-weight: bold;
     }
     
+
     .sideMenu {
-        display: flex;
+        display: inline;
         flex-direction:row;
         justify-content: flex-start
     }
@@ -22,8 +23,8 @@
     nav {
     display: flex;
     justify-content: space-between;
+    background-color: rgb(37,37,36)
     }
-   
 
 .myName {
     color: #ffffff;
