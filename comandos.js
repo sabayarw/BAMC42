@@ -31,5 +31,7 @@ shift+delete para borrar la linea entera
 Las clases de CSS se separan con un espacio class= "hola menuNuevo"
 
 link:css y linkea de uno el html con css
+
+etiqueta <pre> en html deja los espacios como los colocas
 */
 
